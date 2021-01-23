@@ -1,0 +1,1 @@
+allow sysfs_io_sched_tuneable sysfs_io_sched_tuneable:file { write };
